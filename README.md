@@ -9,7 +9,7 @@
 
 - 🖊️ I’m currently studying Computer Science and Engineering **Lovely Professional University,Punjab**
   
-- 🔭 I’m currently working on [Outlier](https://app.outlier.ai/expert/profile)
+- 🔭 I’m currently working on [Twilearn]https://www.twilearn.in/.
  
 - 🌱 I’m currently learning **Java,C++,C,DSA,HTML,CSS,JavaScript,SQL,Excel,R and Tableau**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kumarmanish33148@gmail.com**
 
-- 📄 Know about my experiences [Training Application Developer@LPU || Coders - AI Training role@Outlie](Training Application Developer@LPU || Coders - AI Training role@Outlie)
+- 📄 Know about my experiences [Training Application Developer@LPU || Coders - AI Training role@Outlie || Data Analyst@Twilearn](Training Application Developer@LPU || Coders - AI Training role Freelancer@Outlier || Data Analyst@Twilearn)
 
 - ⚡ Fun fact **I am funny😅**<br>  </br>
 
